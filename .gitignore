@@ -6,10 +6,17 @@
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/runConfigurations.xml
 /.idea/assetWizardSettings.xml
+/.idea/gitignore
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+gitignore
